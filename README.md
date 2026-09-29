@@ -16,5 +16,5 @@
 - Python
 
 ## Connect with Me
-- LinkedIn: (https://www.linkedin.com/in/omar-mohammed-44775b42b/)
+- LinkedIn: https://www.linkedin.com/in/omar-mohammed-44775b42b/
 - Email: omarbash2021@gmail.com
